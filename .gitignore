@@ -23,7 +23,7 @@
 hs_err_pid*
 /.metadata/
 
-# etc
+# in project
 .project
 .classpath
 .settings/
