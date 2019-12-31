@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 /**
- * 주어진 입력 중 소수들의 개수를 출력하는 프로그램
+ * 주어진 입력 중 소수의 개수를 출력하는 프로그램
  * 
  * @author Clarit
  */
