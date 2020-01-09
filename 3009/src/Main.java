@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * 사각형의 빠진 꼭지점 좌표 하나를 출력하는 프로그램
  * 
- * @author Clarit
+ * @author Claritd
  */
 public class Main {
 	public static void main(String[] args) {
